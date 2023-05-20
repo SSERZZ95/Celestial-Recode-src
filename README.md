@@ -1,2 +1,2 @@
 # Celestial-Recode-src
-Celestial Recode SRC
+Скид чита Celestial Recode от Minced Client, фулл source, который вы можете запустить.
